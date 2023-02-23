@@ -1,0 +1,37 @@
+
+body{
+  font-family: 'Hind', sans-serif;
+}
+
+footer{
+  background-color: #364049;
+}
+
+/* TODO FIX this hover event */
+.nav-link:hover{
+  color: #364049!important;
+}
+
+.titleGradient{
+  background: #5DA1CE;
+  background: linear-gradient(180deg, rgba(150,207,234,1) 0%, rgba(93,161,206,1) 100%);
+}
+
+.vid{
+  background-color: #5DA1CE;
+}
+
+.logoText{
+  font-family: 'Pacifico', cursive;
+  font-size: 24pt;
+  font-style: italic;
+}
+
+.siteBtn{
+  border: none;
+  background-color: #5F99BE;
+  border-radius: 5em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
